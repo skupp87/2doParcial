@@ -1,7 +1,7 @@
 Nombre: Simon Saldivia
 
-1) En la capa Aplicacion (TCI/IP): Interactuan la capa de Aplicacion, capa de presentacion, y la capa de sesion (Modelo OSI)
-   En la capa de Transporte (TCI/IP): Interactua la capa de Transporte (Modelo OSI)
+1) En la capa Aplicacion: Protocolo FTP / HTTP / SMTP / DNS / NFS / etc
+   En la capa de Transporte: Protocolo TCP y UDP
 
 2) Clase A: Contiene 8 bits de red y 24 de host (Rango 0.x.x.x - 127.x.x.x)
    Clase B: Contiene 12 bits de red y 12 bits de host (Rango 128.x.x.x - 191.x.x.x)
@@ -17,4 +17,20 @@ Nombre: Simon Saldivia
    Mascara: 255.255.255.0
    Puerta de enlace: 192.168.63.135
    Rango de la conexion: 192.168.63.0 - 192.168.63.255
+
+7) Debemos configurar, cuanto espacio le vamos a otorgar a esta maquina para poder trabajar en ella, cuantos nucleos de 
+nuestro procesador le vamos a dar y cuanta memoria RAM va a utilizar.
+
+8) PaaS: Sistemas operativos, Herramientas de desarrollo, Administracion de base de datos.
+
+9) Definiciones:
+	Rama: Una rama es una linea de desarollo independiente, nos sirve para crear una nueva area de trabajo y registar
+	su historial.
+	
+	Repositorio: Un repositorio es un proyecto que contiene multiples archivos. Estos se pueden alojar de dos maneras,
+		en linea (en la nube) o fuera de linea (auto instalado en nuestro servidor).
+
+	3 areas de trabajo: Repositorio online (github), consola gitbash y Repositorio offline (En nuestro ordenador)
+
+	
 

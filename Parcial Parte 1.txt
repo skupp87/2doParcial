@@ -1,0 +1,20 @@
+Nombre: Simon Saldivia
+
+1) En la capa Aplicacion (TCI/IP): Interactuan la capa de Aplicacion, capa de presentacion, y la capa de sesion (Modelo OSI)
+   En la capa de Transporte (TCI/IP): Interactua la capa de Transporte (Modelo OSI)
+
+2) Clase A: Contiene 8 bits de red y 24 de host (Rango 0.x.x.x - 127.x.x.x)
+   Clase B: Contiene 12 bits de red y 12 bits de host (Rango 128.x.x.x - 191.x.x.x)
+   Clase C: Contiene 24 bits de red y 8 bits de host (Rango 192.x.x.x - 223.x.x.x)
+
+3) 3 Componentes de una red PAN:
+	1 - Bluetooth
+	2 - Telefono
+	3 - Ordenador
+
+4) Conexion de wifi: Galaxy A21s89CB
+   IP: 192.168.63.211 (Clase C)
+   Mascara: 255.255.255.0
+   Puerta de enlace: 192.168.63.135
+   Rango de la conexion: 192.168.63.0 - 192.168.63.255
+
